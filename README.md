@@ -16,9 +16,9 @@
 </p>
 
 <h1 align="center">
-  <img alt="Splash" src="https://raw.githubusercontent.com/GolfettoGuilherme/CampeoesDaCopa/main/screenshots/1.png" width="400" />
-  <img alt="Home" src="https://raw.githubusercontent.com/GolfettoGuilherme/CampeoesDaCopa/main/screenshots/2.png" width="400" />
-  <img alt="Game" src="https://raw.githubusercontent.com/GolfettoGuilherme/CampeoesDaCopa/main/screenshots/3.png" width="400" />
+  <img alt="Splash" src="https://raw.githubusercontent.com/GolfettoGuilherme/CampeoesDaCopa/main/prints/1.png" width="400" />
+  <img alt="Home" src="https://raw.githubusercontent.com/GolfettoGuilherme/CampeoesDaCopa/main/prints/2.png" width="400" />
+  <img alt="Game" src="https://raw.githubusercontent.com/GolfettoGuilherme/CampeoesDaCopa/main/prints/3.png" width="400" />
 </h1>
 
 ## :page_with_curl: Sobre
